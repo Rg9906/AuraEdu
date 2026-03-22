@@ -1,4 +1,33 @@
-opencv-python
-ultralytics
-pyserial
-streamlit
+# Core Computer Vision
+opencv-python>=4.8.0
+ultralytics>=8.0.0
+
+# Hardware Communication
+pyserial>=3.5
+
+# Web Framework & API
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+websockets>=12.0
+
+# Data Processing & Validation
+pydantic>=2.5.0
+psutil>=5.9.0
+
+# Dashboard & UI
+streamlit>=1.28.0
+
+# Database & Storage
+sqlite3
+
+# System Monitoring
+platform
+
+# Development & Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Additional Utilities
+numpy>=1.24.0
+pillow>=10.0.0
+python-multipart>=0.0.6

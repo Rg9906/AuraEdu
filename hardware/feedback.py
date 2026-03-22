@@ -5,3 +5,4 @@ def trigger(action):
 
     elif action == "VIBRATE_RIGHT":
         print("⚡ Trigger RIGHT vibration")
+        print("Vimal")
